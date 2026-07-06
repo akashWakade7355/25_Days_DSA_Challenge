@@ -30,7 +30,7 @@ The main objectives of this challenge are:
 - 🤝 Help other learners by sharing clean and understandable solutions
 
 Every solution will include:
-- ✅ Topic 
+- ✅ Topic name 
 - ✅ Problem Statement
 - ✅ Optimized Solution
 - ✅ Time Complexity
