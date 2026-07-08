@@ -2,7 +2,8 @@
 
 /*
 Question :
-Given a string consisting of lowercase english alphabets. Find the repeated character present first in the string.
+Given a string consisting of lowercase english alphabets. Find the repeated character present 
+first in the string.
 
 NOTE - If there are no repeating characters return '#'.
 
