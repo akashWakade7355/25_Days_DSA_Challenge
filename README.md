@@ -94,7 +94,7 @@ Each day's folder will contain one or more DSA problems along with their optimiz
 | Day 06 | 11 Jul 2026 | ✅ |
 | Day 07 | 12 Jul 2026 | ✅ |
 | Day 08 | 13 Jul 2026 | ✅ |
-| Day 09 | 14 Jul 2026 | ⏳ |
+| Day 09 | 14 Jul 2026 | ✅ |
 | Day 10 | 15 Jul 2026 | ⏳ |
 | Day 11 | 16 Jul 2026 | ⏳ |
 | Day 12 | 17 Jul 2026 | ⏳ |
