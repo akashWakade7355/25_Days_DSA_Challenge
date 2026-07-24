@@ -104,7 +104,7 @@ Each day's folder will contain one or more DSA problems along with their optimiz
 | Day 16 | 21 Jul 2026 | ✅ |
 | Day 17 | 22 Jul 2026 | ✅ |
 | Day 18 | 23 Jul 2026 | ✅ |
-| Day 19 | 24 Jul 2026 | ⏳ |
+| Day 19 | 24 Jul 2026 | ✅ |
 | Day 20 | 25 Jul 2026 | ⏳ |
 | Day 21 | 26 Jul 2026 | ⏳ |
 | Day 22 | 27 Jul 2026 | ⏳ |
